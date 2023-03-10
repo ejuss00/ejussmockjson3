@@ -1,19 +1,29 @@
 {
-  "programUsahawan": 
+  "acaraMara": 
   [
     { 
     "id": 1, 
-    "title" : "Seminar Aspirasi Keusahawanan Bumiputera" , 
-    "location" : "Melaka International Trade Center (MITC)" , 
-    "session" : "21 Sep - 23 Sep",
-    "closedDate" : "24 Sep 2024"
+    "title" : "MARA Eco Green Run and Ride 2019" , 
+    "lokasi" : "Dataran DBKL" , 
+    "sesi" : "20 Oct",
+    "tarikhTutup" : "15 Sep 2023",
+    "kuota": "480"
     },
     { 
     "id": 2, 
-    "title" : "Program Wanita Inspirasi Ekonomi" , 
-    "location" : "" , 
-    "session" : "",
-    "closedDate" : "29 Sep 2024"
+    "title" : "Konsert Aspirasi Muzikal (29 Nov 2019)" , 
+    "lokasi" : "Auditorium Dewan Bandaraya Kuala Lumpur" , 
+    "sesi" : "29 Nov",
+    "tarikhTutup" : "15 Sep 2023",
+    "kuota": "368"
+    },
+    { 
+    "id": 3, 
+    "title" : "Konsert Aspirasi Muzikal (30 Nov 2019)" , 
+    "lokasi" : "Auditorium Dewan Bandaraya Kuala Lumpur" , 
+    "sesi" : "30 Nov",
+    "tarikhTutup" : "15 Sep 2023",
+    "kuota": "91"
     }
   ],
   "transaksiResit": 
