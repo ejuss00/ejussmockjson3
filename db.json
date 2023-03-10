@@ -1,0 +1,111 @@
+{
+  "programUsahawan": 
+  [
+    { 
+    "id": 1, 
+    "title" : "Seminar Aspirasi Keusahawanan Bumiputera" , 
+    "location" : "Melaka International Trade Center (MITC)" , 
+    "session" : "21 Sep - 23 Sep",
+    "closedDate" : "24 Sep 2024"
+    },
+    { 
+    "id": 2, 
+    "title" : "Program Wanita Inspirasi Ekonomi" , 
+    "location" : "" , 
+    "session" : "",
+    "closedDate" : "29 Sep 2024"
+    }
+  ],
+  "transaksiResit": 
+  [
+    { 
+    "id": 1, 
+    "finalTime": "2022-10-06 14:30:35" , 
+    "jenisTransaksi": "Kompaun Kenderaan", 
+    "nilai": "10.00", 
+    "status": "FAIL",
+    "namaBank": "Maybank2U",
+    "noRujTransaksi" : "19282102318"
+    },
+    { 
+    "id": 2, 
+    "finalTime": "2023-03-02 10:12:45" , 
+    "jenisTransaksi": "Bayaran Fasiliti", 
+    "nilai": "999.00", 
+    "status": "FAIL",
+    "namaBank": "Public Bank",
+    "noRujTransaksi" : "20282102318"
+    }
+  ],
+  "akaunAndaSewa": 
+  [
+    { 
+    "id": 1, 
+    "noId": 180007002004 , 
+    "noAkaun": "820070302086",
+    "pinjaman": "BAZAR MERSING", 
+    "nilai": "80.00", 
+    "jumTungakSewa" : " 0.00",
+    "idPemilik" : "891229915009",
+    "status": "TIADA",
+    "namaPemilik": "TEST ACCOUNT SEWA",
+    "alamat": "BAZAR MARA JALAN SULAIMAN 86800 MERSING JOHOR"
+    },
+    {
+    "id": 2, 
+    "noId": 280007002004 , 
+    "noAkaun": "920070302086",
+    "pinjaman": "BAZAR DAMANSARA", 
+    "nilai": "100.00", 
+    "jumTungakSewa": " 0.00",
+    "idPemilik" : "891229915009",
+    "status": "AKTIF",
+    "namaPemilik": "DANISH",
+    "alamat": "DAMANSARA DAMAI"
+    }
+  ],
+  "kolejDanInstitut": 
+  [
+    { 
+    "id": 1, 
+    "jenisInstitutid": "KPM" , 
+    "namaInstitut": "KPM INDERA MAHKOTA",
+    "level": "Diploma",
+    "namaKursus": "DIPLOMA IN COMPUTER NETWORKING", 
+    "sem": "1/2021", 
+    "yuran": "110.00",
+    "yuranstatus": "Yuran Semasa",
+    "tutup": "31 Jul 2023"
+    },
+    { 
+    "id": 2, 
+    "jenisInstitutid": "KPM" , 
+    "namaInstitut": "KPM INDERA MAHKOTA",
+    "level": "Diploma",
+    "namaKursus": "DIPLOMA IN CREATIVE DIGITAL MEDIA & PRODUCTION", 
+    "sem": "1/2021", 
+    "yuran": "110.00",
+    "yuranstatus": "Yuran Semasa",
+    "tutup": "31 Jul 2023"
+    }
+  ],
+ "bayaranPemprosesan": 
+  [
+    { 
+    "id": 1, 
+    "title": "Proses Spike testing" , 
+    "bahagian": "BAHAGIAN PEMBIAYAAN PERNIAGAAN",
+    "nilai": "15.00", 
+    "tahun": "2023",
+    "negeri": "Selangor"
+    },
+    {
+    "id": 2, 
+    "title": "Proses Spike2" , 
+    "bahagian": "BAHAGIAN PEMBIAYAAN PERNIAGAAN2",
+    "nilai": "15.00", 
+    "tahun": "2023",
+    "negeri": "Negeri Sembilan"
+    }
+  ]
+}
