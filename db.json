@@ -26,25 +26,97 @@
     "kuota": "91"
     }
   ],
-  "transaksiResit": 
+ "sebutHarga": 
   [
     { 
     "id": 1, 
-    "finalTime": "2022-10-06 14:30:35" , 
-    "jenisTransaksi": "Kompaun Kenderaan", 
-    "nilai": "10.00", 
-    "status": "FAIL",
-    "namaBank": "Maybank2U",
-    "noRujTransaksi" : "19282102318"
+    "tenderNo": "12/2021" , 
+    "kodBidang": "210103", 
+    "tajuk": "CADANGAN PEROLEHAN LANGGANAN PERKHIDMATAN CONTENT FILTERING DI IBU PEJABAT MARA DAN PUSAT PENTADBIRAN MARA", 
+    "sesi": "2022/2023",
+    "hargaSenaskhah": "60.00",
+    "tarikhTamatJual" : "2023-06-18 00:00:00",
+    "tarikhTamatTender" : "2023-07-22 00:00:00"
     },
     { 
     "id": 2, 
-    "finalTime": "2023-03-02 10:12:45" , 
-    "jenisTransaksi": "Bayaran Fasiliti", 
-    "nilai": "999.00", 
-    "status": "FAIL",
-    "namaBank": "Public Bank",
-    "noRujTransaksi" : "20282102318"
+    "tenderNo": "10/2021" , 
+    "kodBidang": "040103", 
+    "tajuk": "CADANGAN PERKHIDMATAN MEMBEKAL, MENYEDIA DAN MENGHIDANG MAKANAN BERMASAK ISLAM DI MAKTAB RENDAH SAINS MARA (MRSM) KUBANG PASU, KEDAH", 
+    "sesi": "2022/2023",
+    "hargaSenaskhah": "25.00",
+    "tarikhTamatJual" : "2023-06-22 00:00:00",
+    "tarikhTamatTender" : "2023-07-05 00:00:00"
+    },
+    { 
+    "id": 3, 
+    "tenderNo": "11/2021" , 
+    "kodBidang": "040103", 
+    "tajuk": "CADANGAN PERKHIDMATAN MEMBEKAL, MENYEDIA DAN MENGHIDANG MAKANAN BERMASAK ISLAM DI MAKTAB RENDAH SAINS MARA (MRSM) SULTAN AZLAN SHAH, PERAK", 
+    "sesi": "2022/2023",
+    "hargaSenaskhah": "25.00",
+    "tarikhTamatJual" : "2023-06-22 00:00:00",
+    "tarikhTamatTender" : "2023-07-08 00:00:00"
+    },
+    { 
+    "id": 4, 
+    "tenderNo": "09/2021" , 
+    "kodBidang": "040103", 
+    "tajuk": "CADANGAN PERKHIDMATAN MEMBEKAL, MENYEDIA DAN MENGHIDANG MAKANAN BERMASAK ISLAM DI MAKTAB RENDAH SAINS MARA (MRSM) LANGKAWI, KEDAH", 
+    "sesi": "2022/2023",
+    "hargaSenaskhah": "25.00",
+    "tarikhTamatJual" : "2023-06-24 00:00:00",
+    "tarikhTamatTender" : "2023-06-30 00:00:00"
+    },
+    { 
+    "id": 5, 
+    "tenderNo": "358/2021/013" , 
+    "kodBidang": " 210105", 
+    "tajuk": "CADANGAN KERJA-KERJA SELENGGARAAN DAN MENAIKTARAF SISTEM TELEFON SERTA KERJA-KERJA YANG BERKAITAN DI INSTITUT KEMAHIRAN MARA JASIN, MARA", 
+    "sesi": "2021/2022",
+    "hargaSenaskhah": "5.00",
+    "tarikhTamatJual" : "2023-07-09 00:00:000",
+    "tarikhTamatTender" : "2023-07-15 00:00:00"
+    },
+    { 
+    "id": 6, 
+    "tenderNo": "358/2021/012" , 
+    "kodBidang": " G1(B24)", 
+    "tajuk": "CADANGAN KERJA-KERJA SELENGGARAAN DAN MENAIKTARAF ASRAMA LELAKI DAN PEREMPUAN SERTA KERJA-KERJA YANG BERKAITAN DI INSTITUT KEMAHIRAN MARA JASIN, MARA", 
+    "sesi": "2021/2022",
+    "hargaSenaskhah": "5.00",
+    "tarikhTamatJual" : "2023-07-09 00:00:00",
+    "tarikhTamatTender" : "2023-07-15 00:00:00"
+    },
+    { 
+    "id": 7, 
+    "tenderNo": "358/2021/015" , 
+    "kodBidang": "020802/020899/222402", 
+    "tajuk": "CADANGAN MEMBEKAL MERANGKUMI KERJA MENGUKUR, MENGHANTAR DAN MENTAULIAH KASUT KESELAMATAN UNTUK KAKITANGAN BERKELAYAKAN DI IKM JASIN, MELAKA UNTUK TAHUN 2021", 
+    "sesi": "2021/2022",
+    "hargaSenaskhah": "5.00",
+    "tarikhTamatJual" : "2023-07-24 00:00:00",
+    "tarikhTamatTender" : "2023-07-29 00:00:00"
+    },
+    { 
+    "id": 8, 
+    "tenderNo": "14/2021" , 
+    "kodBidang": "040103", 
+    "tajuk": "CADANGAN PERKHIDMATAN MEMBEKAL, MENYEDIA DAN MENGHIDANG MAKANAN BERMASAK ISLAM DI MAKTAB RENDAH SAINS MARA (MRSM) GEMENCHEH, NEGERI SEMBILAN", 
+    "sesi": "2022/2023",
+    "hargaSenaskhah": "25.00",
+    "tarikhTamatJual" : "2023-08-01 00:00:00",
+    "tarikhTamatTender" : "2023-08-09 00:00:00"
+    },
+    { 
+    "id": 9, 
+    "tenderNo": "15/2021" , 
+    "kodBidang": "040103", 
+    "tajuk": "CADANGAN PERKHIDMATAN MEMBEKAL, MENYEDIA DAN MENGHIDANG MAKANAN BERMASAK ISLAM DI MAKTAB RENDAH SAINS MARA (MRSM) SERTING, NEGERI SEMBILAN", 
+    "sesi": "2022/2023",
+    "hargaSenaskhah": "25.00",
+    "tarikhTamatJual" : "2023-08-01 00:00:00",
+    "tarikhTamatTender" : "2023-08-11 00:00:00"
     }
   ],
   "akaunAndaSewa": 
