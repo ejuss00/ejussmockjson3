@@ -119,32 +119,169 @@
     "tarikhTamatTender" : "2023-08-11 00:00:00"
     }
   ],
-  "akaunAndaSewa": 
+  "rumahRehat": 
   [
     { 
     "id": 1, 
-    "noId": 180007002004 , 
-    "noAkaun": "820070302086",
-    "pinjaman": "BAZAR MERSING", 
-    "nilai": "80.00", 
-    "jumTungakSewa" : " 0.00",
-    "idPemilik" : "891229915009",
-    "status": "TIADA",
-    "namaPemilik": "TEST ACCOUNT SEWA",
-    "alamat": "BAZAR MARA JALAN SULAIMAN 86800 MERSING JOHOR"
+    "unit": "No 09-07" , 
+    "lokasi": "Rumah Rehat Johor",
+    "ppnight": "40.00",
+    "negeri": "Johor"
     },
-    {
+    { 
     "id": 2, 
-    "noId": 280007002004 , 
-    "noAkaun": "920070302086",
-    "pinjaman": "BAZAR DAMANSARA", 
-    "nilai": "100.00", 
-    "jumTungakSewa": " 0.00",
-    "idPemilik" : "891229915009",
-    "status": "AKTIF",
-    "namaPemilik": "DANISH",
-    "alamat": "DAMANSARA DAMAI"
-    }
+    "unit": "No 09-09" , 
+    "lokasi": "Rumah Rehat Johor",
+    "ppnight": "40.00",
+    "negeri": "Johor"
+    },
+    { 
+    "id": 3, 
+    "unit": "No 10" , 
+    "lokasi": "Langkawi",
+    "ppnight": "50.00",
+    "negeri": "Kedah"
+    },
+    { 
+    "id": 4, 
+    "unit": "RV-10C" , 
+    "lokasi": "Rumah Rehat Kelantan",
+    "ppnight": "50.00",
+    "negeri": "Kelantan"
+    },
+    { 
+    "id": 5, 
+    "unit": "RV-12B" , 
+    "lokasi": "Rumah Rehat Kelantan",
+    "ppnight": "50.00",
+    "negeri": "Kelantan"
+    },
+    { 
+    "id": 6, 
+    "unit": "RV-12C" , 
+    "lokasi": "Rumah Rehat Kelantan",
+    "ppnight": "50.00",
+    "negeri": "Kelantan"
+    },
+    { 
+    "id": 7, 
+    "unit": "Banglo" , 
+    "lokasi": "Rumah Rehat Negeri Sembilan",
+    "ppnight": "50.00",
+    "negeri": "Negeri Sembilan"
+    },
+    { 
+    "id": 8, 
+    "unit": "Angsana (Tkt 4 - No 9)" , 
+    "lokasi": "The Regency Port Dickson",
+    "ppnight": "30.00",
+    "negeri": "Negeri Sembilan"
+    },
+    { 
+    "id": 9, 
+    "unit": "No 441, Blok M5, Parcel 101" , 
+    "lokasi": "Cameron Highland",
+    "ppnight": "50.00",
+    "negeri": "Pahang"
+    },
+    { 
+    "id": 10, 
+    "unit": "(Apartment Studio) S2-10-23" , 
+    "lokasi": "Swiss Garden Resort",
+    "ppnight": "30.00",
+    "negeri": "Pahang"
+    },
+    { 
+    "id": 11, 
+    "unit": "Banglo" , 
+    "lokasi": "Rumah MARA Kuantan",
+    "ppnight": "30.00",
+    "negeri": "Pahang"
+    },
+    { 
+    "id": 12, 
+    "unit": "S2-1-17" , 
+    "lokasi": "Swiss Garden Resort",
+    "ppnight": "50.00",
+    "negeri": "Pahang"
+    },
+    { 
+    "id": 13, 
+    "unit": "Banglo" , 
+    "lokasi": "Manjung, Lumut",
+    "ppnight": "30.00",
+    "negeri": "Perak"
+    },
+    { 
+    "id": 14, 
+    "unit": "2-15" , 
+    "lokasi": "Pulau Pangkor Marina",
+    "ppnight": "50.00",
+    "negeri": "Perak"
+    },
+    { 
+    "id": 15, 
+    "unit": "42D" , 
+    "lokasi": "Rumah Rehat Pulau Pinang",
+    "ppnight": "70.00",
+    "negeri": "Pulau Pinang"
+    },
+    { 
+    "id": 16, 
+    "unit": "42E" , 
+    "lokasi": "Rumah Rehat Pulau Pinang",
+    "ppnight": "70.00",
+    "negeri": "Pulau Pinang"
+    },
+    { 
+    "id": 17, 
+    "unit": "B10-08" , 
+    "lokasi": "Rumah Rehat Sabah",
+    "ppnight": "50.00",
+    "negeri": "Sabah"
+    },
+    { 
+    "id": 18, 
+    "unit": "Bilik Angsana (Tingkat Bawah)" , 
+    "lokasi": "Petaling Jaya",
+    "ppnight": "20.00",
+    "negeri": "Selangor"
+    },
+    { 
+    "id": 19, 
+    "unit": "Bilik Chengal (Bilik Utama)" , 
+    "lokasi": "Petaling Jaya",
+    "ppnight": "30.00",
+    "negeri": "Selangor"
+    },
+    { 
+    "id": 20, 
+    "unit": "SA1-1-12" , 
+    "lokasi": "Vista Alam (Apartment)",
+    "ppnight": "50.00",
+    "negeri": "Selangor"
+    },
+    { 
+    "id": 21, 
+    "unit": "C-5 (Tingkat 2)" , 
+    "lokasi": "Rumah Rehat Terengganu",
+    "ppnight": "25.00",
+    "negeri": "Terengganu"
+    },
+    { 
+    "id": 22, 
+    "unit": "D-1 (Tingkat 3)" , 
+    "lokasi": "Vista Alam (Apartment)",
+    "ppnight": "25.00",
+    "negeri": "Terengganu"
+    },
+    { 
+    "id": 23, 
+    "unit": "Banglo" , 
+    "lokasi": "Le Chateau Kondo",
+    "ppnight": "50.00",
+    "negeri": "WP Kuala Lumpur"
+    },
   ],
   "kolejDanInstitut": 
   [
